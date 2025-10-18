@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookease/static/css/main.d077b73a.css",
+    "main.js": "/bookease/static/js/main.0fb37447.js",
+    "static/js/453.0ce0afcf.chunk.js": "/bookease/static/js/453.0ce0afcf.chunk.js",
+    "index.html": "/bookease/index.html",
+    "main.d077b73a.css.map": "/bookease/static/css/main.d077b73a.css.map",
+    "main.0fb37447.js.map": "/bookease/static/js/main.0fb37447.js.map",
+    "453.0ce0afcf.chunk.js.map": "/bookease/static/js/453.0ce0afcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d077b73a.css",
+    "static/js/main.0fb37447.js"
+  ]
+}
